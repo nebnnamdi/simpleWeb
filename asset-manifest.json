@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/simpleWeb/static/css/main.f0db1f34.css",
+    "main.js": "/simpleWeb/static/js/main.640785fe.js",
+    "static/media/basket.png": "/simpleWeb/static/media/basket.6afc80973f6f95654ff9.png",
+    "static/media/leafbasket.png": "/simpleWeb/static/media/leafbasket.55f1ef5e09fab00746c1.png",
+    "static/media/couch.png": "/simpleWeb/static/media/couch.79fbc4953f3de29bc3da.png",
+    "static/media/stool.png": "/simpleWeb/static/media/stool.bff328ae0c381d9aac60.png",
+    "index.html": "/simpleWeb/index.html",
+    "main.f0db1f34.css.map": "/simpleWeb/static/css/main.f0db1f34.css.map",
+    "main.640785fe.js.map": "/simpleWeb/static/js/main.640785fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0db1f34.css",
+    "static/js/main.640785fe.js"
+  ]
+}
