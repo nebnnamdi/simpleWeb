@@ -1,10 +1,8 @@
 const Nav = () => {
 
-    const toggleMobileMenu = (e) => {
-        // let menu = document.getElementById("hamburger-icon");
-        // menu.classList.toggle('open');
-
-        e.target.parentNode.classList.toggle('open');
+    const toggleMobileMenu = () => {
+        let menu = document.getElementById("hamburger-icon");
+        menu.classList.toggle('open');
     }
     
     return ( 
